@@ -1,0 +1,20 @@
+What is big data analytics and why is it important?
+Explain the different types of big data analytics.
+How does big data analytics help organizations make better decisions?
+Describe the process of big data analytics and its key components.
+What are some of the challenges faced in big data analytics?
+How does big data analytics help companies gain a competitive advantage?
+Discuss the role of predictive analytics in big data.
+What is the difference between structured and unstructured data in big data analytics?
+How does big data analytics help in fraud detection?
+What is the importance of data preprocessing in big data analytics?
+Explain the concept of data mining in big data analytics.
+Discuss the role of machine learning in big data analytics.
+What are some of the common tools and technologies used in big data analytics?
+How does big data analytics help in customer segmentation?
+What are some of the ethical concerns related to big data analytics?
+What is the role of data visualization in big data analytics?
+Discuss the impact of big data analytics on healthcare.
+How does big data analytics help in supply chain management?
+What is the role of sentiment analysis in big data analytics?
+Explain the importance of real-time big data analytics.

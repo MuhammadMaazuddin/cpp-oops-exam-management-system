@@ -1,0 +1,20 @@
+What is Object-Oriented Programming (OOP) and why is it important in software development?
+Explain the key principles of Object-Oriented Programming: encapsulation, inheritance, and polymorphism.
+Describe the concept of encapsulation in Object-Oriented Programming and its benefits.
+What is the difference between a class and an object in Object-Oriented Programming?
+Explain the concept of inheritance and how it promotes code reuse in Object-Oriented Programming.
+What is the purpose of the "super" keyword in Object-Oriented Programming and when is it used?
+Describe the concept of polymorphism in Object-Oriented Programming and provide an example.
+Explain the terms "base class" and "derived class" in the context of inheritance.
+Discuss the advantages and disadvantages of using inheritance in Object-Oriented Programming.
+What is the difference between method overloading and method overriding in Object-Oriented Programming?
+Describe the concept of abstract classes and interfaces in Object-Oriented Programming and their respective use cases.
+Explain the term "constructor" in Object-Oriented Programming and its role in creating objects.
+What is the significance of the "this" keyword in Object-Oriented Programming?
+Discuss the concepts of data hiding and data abstraction in Object-Oriented Programming.
+Explain the terms "public," "private," and "protected" in the context of access modifiers in Object-Oriented Programming.
+Describe the concept of association in Object-Oriented Programming and provide an example.
+Discuss the advantages of using Object-Oriented Programming over procedural programming.
+Explain the concept of method chaining in Object-Oriented Programming and its benefits.
+What is the role of the "static" keyword in Object-Oriented Programming?
+Describe the concept of composition in Object-Oriented Programming and provide an example.

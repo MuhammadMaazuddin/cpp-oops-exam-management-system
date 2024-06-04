@@ -1,0 +1,150 @@
+What is Digital Image Processing?
+a. A technique to convert analog images to digital format
+b. A process to enhance and analyze digital images
+c. A method to compress digital images
+d. A way to capture images using digital cameras
+Correct answer:b,
+Which of the following is NOT a primary color model used in Digital Image Processing?
+a. RGB
+b. CMYK
+c. HSV
+d. XYZ
+Correct answer:d,
+What is the resolution of an image?
+a. The physical size of the image in inches or centimeters
+b. The number of pixels in the image
+c. The depth or bit-depth of the image
+d. The color space of the image
+Correct answer:b,
+Which of the following operations is used to reduce noise in an image?
+a. Thresholding
+b. Smoothing
+c. Sharpening
+d. Edge detection
+Correct answer:b,
+Which of the following is a commonly used image file format for lossless compression?
+a. JPEG
+b. PNG
+c. GIF
+d. BMP
+Correct answer:b,
+What is histogram equalization?
+a. A technique to adjust the color balance of an image
+b. A method to enhance the contrast of an image
+c. A way to remove noise from an image
+d. A process to convert a color image to grayscale
+Correct answer:b,
+Which of the following is a spatial domain technique in image processing?
+a. Fourier transform
+b. Wavelet transform
+c. Histogram equalization
+d. Median filtering
+Correct answer:d,
+What is the purpose of edge detection in image processing?
+a. To remove noise from the image
+b. To enhance the details of the image
+c. To identify the boundaries between different regions in the image
+d. To adjust the brightness and contrast of the image
+Correct answer:c,
+What is the role of morphological operations in image processing?
+a. To rotate and resize the image
+b. To enhance the sharpness of the image
+c. To perform geometric transformations on the image
+d. To analyze the shape and structure of the image
+Correct answer:d,
+What is the purpose of color space conversion in image processing?
+a. To convert a color image to grayscale
+b. To adjust the brightness and contrast of the image
+c. To remove noise from the image
+d. To compress the image for storage
+Correct answer:a,
+Which of the following filters is used for edge enhancement in image processing?
+a. Gaussian filter
+b. Median filter
+c. Sobel filter
+d. Laplacian filter
+Correct answer:d,
+What is the role of segmentation in image processing?
+a. To extract the main objects or regions of interest from the image
+b. To adjust the brightness and contrast of the image
+c. To remove noise from the image
+d. To compress the image for storage
+Correct answer:a,
+Which of the following is a lossy image compression algorithm?
+a. JPEG
+b. PNG
+c. BMP
+d. TIFF
+Correct answer:a,
+Which of the following is a popular technique used for image denoising?
+a. Gaussian blur
+b. Median filtering
+c. Canny edge detection
+d. Sobel operator
+Correct answer:b,
+What is the purpose of image thresholding?
+a. To enhance the edges in an image
+b. To adjust the brightness and contrast of an image
+c. To convert a grayscale image to binary image
+d. To reduce the noise in an image
+Correct answer:c,
+Which of the following techniques is used to extract text from images?
+a. Optical Character Recognition (OCR)
+b. Histogram equalization
+c. Principal Component Analysis (PCA)
+d. Fast Fourier Transform (FFT)
+Correct answer:a,
+Which image processing technique is commonly used for image compression?
+a. Discrete Wavelet Transform (DWT)
+b. Histogram stretching
+c. Laplacian sharpening
+d. Hough transform
+Correct answer:a,
+What is the role of image morphing in image processing?
+a. To create smooth transitions between images
+b. To resize and reshape an image
+c. To adjust the color balance of an image
+d. To remove unwanted objects from an image
+Correct answer:a,
+Which of the following techniques is used to detect and correct geometric distortions in images?
+a. Homography transformation
+b. Adaptive thresholding
+c. K-means clustering
+d. Harris corner detection
+Correct answer:a,
+Which image enhancement technique is useful for highlighting fine details and textures in an image?
+a. Histogram equalization
+b. Gamma correction
+c. Unsharp masking
+d. Median filtering
+Correct answer:c,
+Which of the following algorithms is commonly used for image segmentation?
+a. K-nearest neighbors (KNN)
+b. Support Vector Machines (SVM)
+c. K-means clustering
+d. Random Forests
+Correct answer:c,
+What is the purpose of image warping in image processing?
+a. To apply geometric transformations to an image
+b. To adjust the color balance of an image
+c. To remove noise from an image
+d. To compress the image for storage
+Correct answer:a,
+Which of the following techniques is used to detect and extract specific objects or features from an image?
+a. Template matching
+b. Adaptive thresholding
+c. Bilateral filtering
+d. Edge-preserving smoothing
+Correct answer:a,
+Which image processing technique is used for image registration in medical imaging?
+a. Deconvolution
+b. Anisotropic diffusion
+c. Mutual information
+d. Active contours
+Correct answer:c,
+What is the purpose of image inpainting in image processing?
+a. To remove noise from an image
+b. To adjust the brightness and contrast of an image
+c. To fill in missing or damaged parts of an image
+d. To convert a color image to grayscale
+Correct answer:c,

@@ -1,0 +1,150 @@
+What is the time complexity of an algorithm?
+a. The amount of memory used by the algorithm
+b. The time taken by the algorithm to execute
+c. The number of steps executed by the algorithm
+d. The input size of the algorithm
+Correct answer:b,
+Which notation is commonly used to represent the worst-case time complexity of an algorithm?
+a. O-notation
+b. Ω-notation
+c. Θ-notation
+d. P-notation
+Correct answer:a,
+Which of the following time complexities represents the most efficient algorithm?
+a. O(1)
+b. O(log n)
+c. O(n)
+d. O(n^2)
+Correct answer:a,
+What does it mean for an algorithm to have linear time complexity?
+a. The algorithm executes in constant time
+b. The algorithm executes in logarithmic time
+c. The algorithm executes in linear time
+d. The algorithm executes in quadratic time
+Correct answer:c,
+Which of the following represents the best-case time complexity of an algorithm?
+a. The time taken by the algorithm on average
+b. The maximum time taken by the algorithm
+c. The minimum time taken by the algorithm
+d. The time taken by the algorithm in the worst-case scenario
+Correct answer:c,
+What is the purpose of algorithm analysis?
+a. To compare algorithms based on their efficiency
+b. To determine the correctness of an algorithm
+c. To test the algorithm on different input sizes
+d. To implement the algorithm in a programming language
+Correct answer:a,
+Which of the following is an example of a non-linear data structure?
+a. Array
+b. Linked list
+c. Stack
+d. Tree
+Correct answer:d,
+Which sorting algorithm has a worst-case time complexity of O(n^2)?
+a. Bubble sort
+b. Merge sort
+c. Quick sort
+d. Insertion sort
+Correct answer:a,
+Which of the following represents the best-case time complexity of a sorting algorithm?
+a. O(n)
+b. O(n log n)
+c. O(n^2)
+d. O(log n)
+Correct answer:a,
+What is the purpose of Big O notation in algorithm analysis?
+a. To represent the average-case time complexity
+b. To represent the best-case time complexity
+c. To represent the worst-case time complexity
+d. To represent the space complexity
+Correct answer:c,
+Which algorithmic paradigm is based on dividing the problem into smaller subproblems and solving them recursively?
+a. Greedy algorithms
+b. Divide and conquer
+c. Dynamic programming
+d. Backtracking
+Correct answer:b,
+Which of the following data structures is typically used to implement a queue?
+a. Array
+b. Linked list
+c. Stack
+d. Tree
+Correct answer:b,
+Which sorting algorithm has an average-case time complexity of O(n log n)?
+a. Bubble sort
+b. Merge sort
+c. Quick sort
+d. Insertion sort
+Correct answer:c,
+Which of the following is an example of a searching algorithm?
+a. Bubble sort
+b. Quick sort
+c. Linear search
+d. Binary search
+Correct answer:d,
+Which algorithmic paradigm focuses on exploring all possible solutions to find the best one?
+a. Greedy algorithms
+b. Dynamic programming
+c. Backtracking
+d. Divide and conquer
+Correct answer:c,
+Which of the following is a characteristic of an efficient algorithm?
+a. It uses a large amount of memory
+b. It takes a long time to execute
+c. It scales well with increasing input size
+d. It requires frequent user interaction
+Correct answer:c,
+Which data structure follows the Last-In-First-Out (LIFO) principle?
+a. Queue
+b. Stack
+c. Linked list
+d. Tree
+Correct answer:b,
+Which of the following is an example of a recursive algorithm?
+a. Binary search
+b. Selection sort
+c. Insertion sort
+d. Quicksort
+Correct answer:d,
+What is the primary goal of algorithmic efficiency?
+a. To minimize memory usage
+b. To minimize the number of steps in an algorithm
+c. To minimize the time taken by an algorithm
+d. To minimize the input size of an algorithm
+Correct answer:c,
+Which algorithmic paradigm focuses on making locally optimal choices at each step?
+a. Greedy algorithms
+b. Dynamic programming
+c. Backtracking
+d. Divide and conquer
+Correct answer:a,
+Which sorting algorithm has a time complexity of O(n^2) in the worst-case scenario?
+a. Bubble sort
+b. Merge sort
+c. Quick sort
+d. Insertion sort
+Correct answer:a,
+Which data structure uses a First-In-First-Out (FIFO) approach?
+a. Stack
+b. Queue
+c. Linked list
+d. Tree
+Correct answer:b,
+Which algorithmic paradigm involves breaking down a problem into smaller overlapping subproblems?
+a. Greedy algorithms
+b. Dynamic programming
+c. Backtracking
+d. Divide and conquer
+Correct answer:b,
+Which sorting algorithm requires extra space for merging the subarrays?
+a. Bubble sort
+b. Merge sort
+c. Quick sort
+d. Insertion sort
+Correct answer:b,
+Which algorithmic paradigm is based on selecting the best available option at each stage?
+a. Greedy algorithms
+b. Divide and conquer
+c. Dynamic programming
+d. Backtracking
+Correct answer:a,

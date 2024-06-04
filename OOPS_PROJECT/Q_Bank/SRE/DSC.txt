@@ -1,0 +1,20 @@
+Define software requirement engineering.
+Explain the importance of software requirement engineering in the software development process.
+What are the key activities involved in software requirement engineering?
+Describe the difference between functional and non-functional requirements.
+Discuss the challenges faced in gathering software requirements from stakeholders.
+Explain the concept of requirements prioritization and its significance.
+Describe the role of a requirements analyst in the software requirement engineering process.
+Discuss the various techniques used for requirements elicitation.
+Explain the process of requirements analysis and its purpose.
+Discuss the significance of requirements validation and the techniques used for validation.
+Describe the process of requirements documentation and its role in the software development life cycle.
+Explain the concept of requirements traceability and its benefits.
+Discuss the role of stakeholders in software requirement engineering.
+Explain the difference between user requirements and system requirements.
+Describe the techniques used for requirements verification and their purpose.
+Discuss the challenges associated with managing and controlling requirements changes.
+Explain the concept of requirements negotiation and its importance.
+Describe the characteristics of a well-defined and effective software requirement.
+Discuss the role of domain knowledge in software requirement engineering.
+Explain the relationship between software requirement engineering and software testing.

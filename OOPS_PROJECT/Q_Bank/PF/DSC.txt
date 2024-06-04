@@ -1,0 +1,20 @@
+Explain the concept of programming and its significance in the field of computer science.
+Describe the difference between high-level programming languages and low-level programming languages.
+Discuss the importance of variables in programming and how they are used to store and manipulate data.
+Explain the concept of control structures (such as loops and conditional statements) and their role in program flow control.
+Describe the difference between procedural programming and object-oriented programming paradigms.
+Discuss the concept of functions in programming and their advantages in code organization and reusability.
+Explain the concept of data types and their significance in programming.
+Describe the process of debugging and the techniques used to identify and fix errors in a program.
+Discuss the importance of comments and documentation in programming and their role in code readability and maintainability.
+Explain the concept of arrays and their applications in storing and accessing multiple data elements.
+Discuss the concept of recursion and its use in solving problems in programming.
+Describe the difference between static typing and dynamic typing in programming languages.
+Explain the concept of input and output operations in programming and how they are used to interact with users and external devices.
+Discuss the concept of scope and visibility of variables in programming.
+Describe the concept of exception handling and its significance in handling errors and abnormal conditions in a program.
+Explain the concept of modularity in programming and its advantages in code organization and maintainability.
+Discuss the concept of file handling in programming and its applications in reading and writing data to files.
+Describe the process of program compilation and the role of compilers in converting high-level code into machine-readable instructions.
+Discuss the concept of data structures and their importance in organizing and manipulating data in programming.
+Explain the concept of algorithms and their significance in solving problems and designing efficient programs.

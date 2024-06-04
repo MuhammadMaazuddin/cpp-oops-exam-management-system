@@ -1,0 +1,20 @@
+Explain what algorithm analysis is and why it is important in computer science.
+Discuss the concept of time complexity in algorithm analysis. How is it measured and why is it significant?
+Explain the difference between best-case, worst-case, and average-case time complexity of an algorithm.
+What is the role of Big O notation in algorithm analysis? How is it used to classify algorithms based on their efficiency?
+Describe the process of analyzing the space complexity of an algorithm. How is it different from time complexity analysis?
+Discuss the concept of algorithmic efficiency. What factors determine the efficiency of an algorithm?
+Explain the concept of asymptotic analysis in algorithm analysis. Why is it useful in comparing the efficiency of algorithms?
+What is the significance of algorithmic paradigms such as divide and conquer, greedy algorithms, and dynamic programming in algorithm analysis?
+Describe the process of analyzing the time and space complexity of a recursive algorithm. How does recursion affect algorithmic efficiency?
+Discuss the trade-off between time complexity and space complexity in algorithm design. When is it more important to optimize for time, and when is it more important to optimize for space?
+Explain the concept of algorithmic scalability. How does the efficiency of an algorithm impact its scalability with increasing input sizes?
+Discuss the impact of data structures on algorithmic efficiency. How can the choice of data structure affect the performance of an algorithm?
+Explain the difference between algorithm analysis in theory and in practice. Why might the actual performance of an algorithm differ from its theoretical analysis?
+Describe the concept of amortized analysis in algorithm design. How is it used to analyze the performance of algorithms with varying time complexity for different operations?
+Discuss the role of benchmarking and profiling in algorithm analysis. How do these techniques help evaluate the efficiency of an algorithm in practical scenarios?
+Explain the importance of understanding algorithmic complexity in real-world applications such as search engines, data processing, and optimization problems.
+Discuss the impact of algorithmic efficiency on computational resources such as CPU usage, memory consumption, and energy consumption.
+Explain the concept of algorithmic correctness. How does algorithm analysis help ensure the correctness of an algorithm?
+Discuss the role of problem size and input characteristics in algorithm analysis. How do these factors affect the performance of different algorithms?
+Explain the relationship between algorithm analysis and algorithm design. How does a good understanding of algorithm analysis help in designing efficient algorithms?

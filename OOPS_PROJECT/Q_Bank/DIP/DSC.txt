@@ -1,0 +1,20 @@
+Explain the concept of pixel in digital image processing.
+Describe the process of image acquisition and its importance in digital image processing.
+Discuss the concept of spatial resolution in digital image processing.
+Explain the difference between grayscale and color images in digital image processing.
+Describe the role of image enhancement techniques in improving the quality of digital images.
+Discuss the concept of image filtering and its applications in digital image processing.
+Explain the process of image segmentation and its significance in digital image processing.
+Describe the concept of image registration and its applications in medical imaging.
+Discuss the role of morphological operations in digital image processing.
+Explain the concept of image compression and different compression algorithms used in digital image processing.
+Discuss the challenges and techniques involved in image denoising in digital image processing.
+Describe the concept of edge detection and its applications in image processing.
+Explain the process of image restoration and its significance in digital image processing.
+Discuss the concept of image morphing and its applications in digital image processing.
+Explain the principles and techniques of image recognition and classification in digital image processing.
+Describe the role of feature extraction in digital image processing and its applications.
+Discuss the concept of texture analysis and its significance in digital image processing.
+Explain the process of image inpainting and its applications in digital image processing.
+Describe the concept of image watermarking and its importance in digital image processing.
+Discuss the challenges and techniques involved in image fusion in digital image processing.

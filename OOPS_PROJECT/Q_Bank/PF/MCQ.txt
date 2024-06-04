@@ -1,0 +1,150 @@
+What is the term for a named storage location in a program that holds a value?
+a. Variable
+b. Constant
+c. Function
+d. Array
+Correct answer:a,
+Which of the following is a programming paradigm that uses a sequential approach?
+a. Procedural programming
+b. Object-oriented programming
+c. Functional programming
+d. Event-driven programming
+Correct answer:a,
+What is the process of finding and fixing errors in a program called?
+a. Debugging
+b. Testing
+c. Compiling
+d. Executing
+Correct answer:a,
+Which of the following is used to represent a single character in programming?
+a. Integer
+b. String
+c. Float
+d. Character
+Correct answer:d,
+What is the term for a set of well-defined steps to solve a problem in programming?
+a. Algorithm
+b. Syntax
+c. Function
+d. Class
+Correct answer:a,
+Which programming language is known for its use in web development?
+a. HTML
+b. CSS
+c. JavaScript
+d. Python
+Correct answer:c,
+What is the term for a piece of code that performs a specific task and can be reused?
+a. Function
+b. Loop
+c. Array
+d. Variable
+Correct answer:a,
+Which operator is used to compare two values for equality in programming?
+a. ==
+b. !=
+c. >
+d. <
+Correct answer: a,
+What is the term for the process of converting high-level code into machine-readable instructions?
+a. Compilation
+b. Interpretation
+c. Execution
+d. Debugging
+Correct answer:a,
+Which of the following is an example of a loop structure in programming?
+a. For loop
+b. If statement
+c. Switch statement
+d. Function call
+Correct answer:a,
+What is the term for a logical expression that evaluates to either true or false?
+a. Boolean
+b. Integer
+c. String
+d. Array
+Correct answer:a,
+Which programming construct is used to make decisions based on certain conditions?
+a. If statement
+b. For loop
+c. Switch statement
+d. Function call
+Correct answer:a,
+Which of the following is a data structure that stores a collection of elements with key-value pairs?
+a. Array
+b. Linked list
+c. Dictionary
+d. Stack
+Correct answer:c,
+What is the term for the process of breaking down a complex problem into smaller, manageable parts?
+a. Decomposition
+b. Abstraction
+c. Polymorphism
+d. Inheritance
+Correct answer:a,
+Which programming concept allows one class to inherit properties and methods from another class?
+a. Inheritance
+b. Encapsulation
+c. Polymorphism
+d. Abstraction
+Correct answer:a,
+What is the term for a set of rules that determine the structure and syntax of a programming language?
+a. Syntax
+b. Algorithm
+c. Compiler
+d. Debugging
+Correct answer:a,
+Which of the following is a data type used to store whole numbers in programming?
+a. Integer
+b. Float
+c. String
+d. Boolean
+Correct answer:a,
+What is the process of translating high-level code into machine-readable instructions called?
+a. Compilation
+b. Interpretation
+c. Execution
+d. Debugging
+Correct answer:a,
+Which of the following operators is used to perform mathematical calculations in programming?
+a. +
+b. -
+c. *
+d. /
+Correct answer:c,
+What is the term for a named sequence of statements that can be executed multiple times in a program?
+a. Loop
+b. Function
+c. Variable
+d. Array
+Correct answer:b,
+Which programming language is often used for scientific computing and data analysis?
+a. Python
+b. Java
+c. C++
+d. Ruby
+Correct answer:a,
+What is the term for the process of testing individual units or components of a program?
+a. Unit testing
+b. Integration testing
+c. System testing
+d. Regression testing
+Correct answer:a,
+Which of the following is an example of a control structure used to make decisions in programming?
+a. If statement
+b. For loop
+c. Switch statement
+d. Function call
+Correct answer:a,
+What is the term for a named block of code that performs a specific task in a program?
+a. Function
+b. Class
+c. Object
+d. Module
+Correct answer:a,
+Which programming concept refers to the bundling of related data and functions into a single entity?
+a. Encapsulation
+b. Polymorphism
+c. Inheritance
+d. Abstraction
+Correct answer:a,

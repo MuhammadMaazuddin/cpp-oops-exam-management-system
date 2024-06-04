@@ -1,0 +1,150 @@
+What is software requirement engineering?
+a. The process of developing software requirements
+b. The process of designing software architecture
+c. The process of testing software applications
+d. The process of maintaining software documentation
+Correct answer:a,
+Which of the following is not a software requirement category?
+a. Functional requirements
+b. Non-functional requirements
+c. Performance requirements
+d. User interface requirements
+Correct answer:c,
+What is the purpose of requirements elicitation?
+a. To document software requirements
+b. To prioritize software features
+c. To gather software requirements from stakeholders
+d. To validate software requirements
+Correct answer:c,
+Which of the following is not a technique for requirements elicitation?
+a. Interviews
+b. Surveys
+c. Prototyping
+d. Testing
+Correct answer:d,
+What is the goal of requirements analysis?
+a. To identify inconsistencies in requirements
+b. To define the software architecture
+c. To verify software requirements
+d. To estimate project timelines
+Correct answer:a,
+Which of the following is a characteristic of a good software requirement?
+a. Ambiguity
+b. Consistency
+c. Incompleteness
+d. Subjectivity
+Correct answer:b,
+What is the purpose of requirements prioritization?
+a. To assign deadlines to requirements
+b. To determine the order in which requirements should be implemented
+c. To validate requirements against user needs
+d. To document changes in requirements
+Correct answer:b,
+Which of the following is not a technique for requirements validation?
+a. Inspection
+b. Testing
+c. Verification
+d. User feedback
+Correct answer:c,
+What is the purpose of requirements traceability?
+a. To track changes in requirements over time
+b. To identify dependencies between requirements
+c. To map requirements to design elements and test cases
+d. To prioritize requirements based on business value
+Correct answer:c,
+What is the goal of requirements documentation?
+a. To provide a detailed design for the software system
+b. To facilitate communication between stakeholders
+c. To specify the programming language to be used
+d. To outline the project management plan
+Correct answer:b,
+Which of the following is not a stakeholder in software requirement engineering?
+a. Developers
+b. Project managers
+c. Testers
+d. Competitors
+Correct answer:d,
+Which of the following is not a requirement development technique?
+a. Use case modeling
+b. Prototyping
+c. Decision tables
+d. Code refactoring
+Correct answer:d,
+What is the purpose of requirements change management?
+a. To prevent any changes to software requirements
+b. To track and manage changes to software requirements
+c. To reject all change requests
+d. To document software defects
+Correct answer:b,
+Which of the following is not a common requirement documentation format?
+a. User stories
+b. Requirements traceability matrix
+c. Use case diagram
+d. Flowchart
+Correct answer:d,
+What is the goal of requirements validation?
+a. To ensure that software requirements are consistent with user needs
+b. To optimize software performance
+c. To estimate project costs
+d. To identify software defects
+Correct answer:a,
+Which of the following is not a requirement verification technique?
+a. Inspections
+b. Walkthroughs
+c. Simulations
+d. Reviews
+Correct answer:c,
+What is software requirement engineering?
+a. The process of gathering software requirements
+b. The process of designing software architecture
+c. The process of coding software modules
+d. The process of testing software functionality
+Correct answer:a,
+Which of the following is NOT a characteristic of a good requirement?
+a. Consistency
+b. Ambiguity
+c. Verifiability
+d. Understandability
+Correct answer:b,
+What is the purpose of requirements elicitation?
+a. To prioritize software requirements
+b. To document software requirements
+c. To gather software requirements from stakeholders
+d. To validate software requirements
+Correct answer:c,
+Which technique involves directly observing users performing their tasks to gather requirements?
+a. Interviews
+b. Surveys
+c. Prototyping
+d. User observation
+Correct answer:d,
+Which type of requirement specifies what the system should do?
+a. Functional requirement
+b. Non-functional requirement
+c. User requirement
+d. System requirement
+Correct answer:a,
+What is the purpose of requirements verification?
+a. To prioritize software requirements
+b. To ensure software requirements are complete and correct
+c. To document software requirements
+d. To gather software requirements from stakeholders
+Correct answer:b,
+Which technique involves using sample data to test the behavior of the software?
+a. Prototyping
+b. Simulation
+c. User stories
+d. Use cases
+Correct answer:b,
+What is the purpose of requirements validation?
+a. To ensure software requirements are complete and correct
+b. To gather software requirements from stakeholders
+c. To prioritize software requirements
+d. To document software requirements
+Correct answer:a,
+Which of the following is a non-functional requirement?
+a. The system should respond within 2 seconds.
+b. The system should allow users to create new accounts.
+c. The system should display an error message when invalid data is entered.
+d. The system should support 100 concurrent users.
+Correct answer:a,

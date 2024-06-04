@@ -1,0 +1,150 @@
+What is a data structure?
+a. A way to store and organize data
+b. A programming language
+c. An algorithm
+d. A computer network
+Correct answer:a,
+Which of the following is an example of a linear data structure?
+a. Stack
+b. Tree
+c. Graph
+d. Hash table
+Correct answer:a,
+What is the time complexity of searching in a sorted array using binary search?
+a. O(1)
+b. O(log n)
+c. O(n)
+d. O(n log n)
+Correct answer:b,
+Which data structure follows the Last-In-First-Out (LIFO) principle?
+a. Queue
+b. Stack
+c. Linked list
+d. Tree
+Correct answer:b,
+What is the purpose of a hash table?
+a. To sort data
+b. To search data
+c. To store key-value pairs
+d. To implement recursion
+Correct answer:c,
+Which of the following is an example of a non-linear data structure?
+a. Queue
+b. Stack
+c. Linked list
+d. Tree
+Correct answer:d,
+What is the time complexity of inserting an element at the end of an array?
+a. O(1)
+b. O(log n)
+c. O(n)
+d. O(n log n)
+Correct answer:a,
+Which data structure represents a hierarchical structure with a set of connected nodes?
+a. Queue
+b. Stack
+c. Linked list
+d. Tree
+Correct answer:d,
+What is the time complexity of searching in a hash table on average?
+a. O(1)
+b. O(log n)
+c. O(n)
+d. O(n log n)
+Correct answer:a,
+Which data structure allows constant time insertion and deletion at both ends?
+a. Queue
+b. Stack
+c. Linked list
+d. Deque
+Correct answer:d,
+What is the time complexity of searching in a linked list?
+a. O(1)
+b. O(log n)
+c. O(n)
+d. O(n log n)
+Correct answer:c,
+Which data structure uses First-In-First-Out (FIFO) ordering?
+a. Queue
+b. Stack
+c. Linked list
+d. Tree
+Correct answer:a,
+What is the time complexity of inserting an element at the beginning of an array?
+a. O(1)
+b. O(log n)
+c. O(n)
+d. O(n log n)
+Correct answer:c,
+Which data structure allows efficient searching, insertion, and deletion of elements in sorted order?
+a. Queue
+b. Stack
+c. Linked list
+d. Binary search tree
+Correct answer:d,
+What is the time complexity of removing an element from a stack?
+a. O(1)
+b. O(log n)
+c. O(n)
+d. O(n log n)
+Correct answer:a,
+What is the time complexity of finding the minimum element in a binary heap?
+a. O(1)
+b. O(log n)
+c. O(n)
+d. O(n log n)
+Correct answer:a,
+Which data structure is used to implement breadth-first search (BFS) algorithm?
+a. Stack
+b. Queue
+c. Linked list
+d. Tree
+Correct answer:b,
+What is the time complexity of searching in a balanced binary search tree (BST)?
+a. O(1)
+b. O(log n)
+c. O(n)
+d. O(n log n)
+Correct answer:b,
+Which data structure is suitable for implementing a cache with efficient lookup and deletion?
+a. Stack
+b. Queue
+c. Linked list
+d. Hash table
+Correct answer:d,
+What is the time complexity of searching in a balanced AVL tree?
+a. O(1)
+b. O(log n)
+c. O(n)
+d. O(n log n)
+Correct answer:b,
+Which data structure is used to implement the undo-redo functionality in text editors?
+a. Stack
+b. Queue
+c. Linked list
+d. Hash table
+Correct answer:a,
+What is the time complexity of finding the maximum element in a binary search tree (BST)?
+a. O(1)
+b. O(log n)
+c. O(n)
+d. O(n log n)
+Correct answer:c,
+Which data structure is used for efficiently matching parentheses in an arithmetic expression?
+a. Stack
+b. Queue
+c. Linked list
+d. Hash table
+Correct answer:a,
+What is the time complexity of inserting an element at the end of a doubly linked list?
+a. O(1)
+b. O(log n)
+c. O(n)
+d. O(n log n)
+Correct answer:a,
+Which data structure is used for implementing the call stack in programming languages?
+a. Stack
+b. Queue
+c. Linked list
+d. Hash table
+Correct answer:a,

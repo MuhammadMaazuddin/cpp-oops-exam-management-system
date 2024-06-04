@@ -1,0 +1,40 @@
+Artificial intelligence is the simulation of __________ intelligence by computer systems.
+Option a: human
+Option b: animal
+Correct option:a,
+The process by which an AI system learns from data is called __________.
+Option a: programming
+Option b: machine learning
+Correct option:b,
+AI can be used to automate tasks that are repetitive and __________.
+Option a: simple
+Option b: complex
+Correct option:a,
+A type of AI that can perform tasks without explicit programming is called __________.
+Option A: unsupervised learning
+Option B: artificial neural networks
+Correct option:a,
+An AI system's ability to understand and interpret human language is called __________.
+Option A: natural language processing
+Option B: computer vision
+Correct option:a,
+AI systems that are able to learn from experience and improve over time are said to be __________.
+Option A: static
+Option B: dynamic
+Correct option:b,
+The process of an AI system making decisions based on data and analysis is called __________.
+Option A: predictive analytics
+Option B: decision-making
+Correct option:b,
+An AI system that can perceive and interpret visual information from the world around it is said to have __________.
+Option A: machine perception
+Option B: machine cognition
+Correct option:a,
+The process by which an AI system is trained using a set of labeled data is called __________.
+Option A: supervised learning
+Option B: reinforcement learning
+Correct option:a,
+The goal of AI is to create systems that can perform tasks that would normally require __________.
+Option A: human intelligence
+Option B: animal instincts
+Correct option:a,

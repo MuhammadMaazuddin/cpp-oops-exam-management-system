@@ -1,0 +1,150 @@
+What is computing?
+a. The process of writing code
+b. The process of using computers to solve problems
+c. The process of designing computer hardware
+d. The process of analyzing data
+Correct answer:b,
+What is a computer?
+a. An electronic device that performs calculations and stores data
+b. A software program that runs on a smartphone
+c. A type of smartphone
+d. A device used for browsing the internet
+Correct answer:a,
+What is a computer program?
+a. The physical components of a computer
+b. The instructions that tell a computer what to do
+c. The output produced by a computer
+d. The process of installing software on a computer
+Correct answer:b,
+What is an algorithm?
+a. A type of computer hardware
+b. A programming language
+c. A step-by-step procedure for solving a problem
+d. A software application
+Correct answer:c,
+What is the binary system?
+a. A system used to represent text in computers
+b. A system used to represent numbers using only 0s and 1s
+c. A system used to organize files on a computer
+d. A system used to encrypt data
+Correct answer:b,
+What is the central processing unit (CPU)?
+a. The main circuit board of a computer
+b. The storage component of a computer
+c. The device used to input data into a computer
+d. The brain of the computer that executes instructions
+Correct answer:d,
+What is an input device?
+a. A device used to store data in a computer
+b. A device used to output data from a computer
+c. A device used to communicate with other computers
+d. A device used to enter data into a computer
+Correct answer:d,
+What is an output device?
+a. A device used to store data in a computer
+b. A device used to input data into a computer
+c. A device used to display or present data from a computer
+d. A device used to process data in a computer
+Correct answer:c,
+What is a file?
+a. A piece of computer hardware
+b. A collection of computer programs
+c. A storage area for data on a computer
+d. A type of computer virus
+Correct answer:c,
+What is an operating system?
+a. The physical components of a computer
+b. A programming language
+c. A software that manages computer hardware and software resources
+d. A type of computer network
+Correct answer:c,
+What is memory in a computer?
+a. The physical components of a computer
+b. The storage area where data and instructions are temporarily stored during processing
+c. The input devices of a computer
+d. The output devices of a computer
+Correct answer:b,
+What is a network?
+a. A device used to process data in a computer
+b. A type of computer virus
+c. A collection of interconnected computers and devices
+d. The output produced by a computer
+Correct answer:c,
+What is a compiler?
+a. A device used to input data into a computer
+b. A software program that translates high-level programming code into machine code
+c. The output devices of a computer
+d. A storage area for data on a computer
+Correct answer:b,
+What is a software bug?
+a. A type of computer virus
+b. An error or defect in a computer program
+c. The brain of the computer that executes instructions
+d. The physical components of a computer
+Correct answer:b,
+What is an iteration in programming?
+a. The process of writing code
+b. A step-by-step procedure for solving a problem
+c. The process of executing a set of instructions repeatedly
+d. A software program that runs on a smartphone
+Correct answer:c,
+What is a variable in programming?
+a. The physical components of a computer
+b. A storage area for data in a computer
+c. A programming language
+d. The output produced by a computer
+Correct answer:b,
+What is the purpose of conditional statements in programming?
+a. To perform repetitive tasks
+b. To store and manipulate data
+c. To control the flow of execution based on certain conditions
+d. To communicate with other computers
+Correct answer:c,
+What is a function in programming?
+a. A device used to input data into a computer
+b. A step-by-step procedure for solving a problem
+c. A reusable block of code that performs a specific task
+d. A type of computer network
+Correct answer:c,
+What is debugging in programming?
+a. The process of writing code
+b. The process of translating high-level programming code into machine code
+c. The process of finding and fixing errors in a computer program
+d. The process of managing computer hardware and software resources
+Correct answer:c,
+What is the purpose of comments in programming?
+a. To perform repetitive tasks
+b. To store and manipulate data
+c. To add explanations or notes in the code for better understanding
+d. To control the flow of execution based on certain conditions
+Correct answer:c,
+What is an array in programming?
+a. A device used to process data in a computer
+b. A collection of related data items stored under a single name
+c. A storage area for data on a computer
+d. The physical components of a computer
+Correct answer:b,
+What is recursion in programming?
+a. The process of executing a set of instructions repeatedly
+b. The process of translating high-level programming code into machine code
+c. A step-by-step procedure for solving a problem
+d. A function that calls itself during its execution
+Correct answer:d,
+What is pseudocode?
+a. A programming language
+b. A type of computer network
+c. An outline of a computer program using natural language and code-like notation
+d. The output devices of a computer
+Correct answer:c,
+What is a data type in programming?
+a. The physical components of a computer
+b. A step-by-step procedure for solving a problem
+c. The specific classification of data that determines its behavior and operations
+d. A storage area for data on a computer
+Correct answer:c,
+What is an array in programming?
+a. A device used to process data in a computer
+b. A collection of related data items stored under a single name
+c. A storage area for data on a computer
+d. The physical components of a computer
+Correct answer:b,

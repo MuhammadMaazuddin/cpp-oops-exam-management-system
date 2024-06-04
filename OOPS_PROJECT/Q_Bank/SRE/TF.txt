@@ -1,0 +1,40 @@
+AI is the simulation of human intelligence processes by computer systems. 
+a:True
+b:False
+Correct answer:a,
+Machine learning is the process by which an AI system is explicitly programmed to perform a task.
+a:True
+b:False
+Correct answer:b,
+AI can be used to automate complex tasks that require human intelligence.
+a:True
+b:False
+Correct answer:a,
+Deep learning is a type of machine learning that uses neural networks to perform tasks.
+a:True
+b:False
+Correct answer:a,
+Computer vision is the AI system's ability to understand and interpret human language.
+a:True
+b:False
+Correct answer:b,
+Unsupervised learning is a type of machine learning in which an AI system learns from labeled data.
+a:True
+b:False
+Correct answer:b,
+Natural language processing is the process by which an AI system can understand and interpret human language.
+a:True
+b:False
+Correct answer:a,
+The goal of AI is to create systems that can perform tasks that would normally require human intelligence.
+a:True
+b:False
+Correct answer:a,
+AI systems that can learn from experience and improve over time are said to be static.
+a:True
+b:False
+Correct answer:b,
+Reinforcement learning is a type of machine learning in which an AI system learns from feedback in the form of rewards or punishments.
+a:True
+b:False
+Correct answer:a,

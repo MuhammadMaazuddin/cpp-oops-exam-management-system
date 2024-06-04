@@ -1,0 +1,150 @@
+What is research methodology?
+a. The process of collecting data
+b. The study of research methods
+c. The analysis of research findings
+d. The application of statistical techniques
+Correct answer:b,
+What is the first step in the research process?
+a. Data analysis
+b. Literature review
+c. Hypothesis testing
+d. Problem identification
+Correct answer:d,
+Which of the following is NOT a primary research method?
+a. Surveys
+b. Interviews
+c. Experiments
+d. Data mining
+Correct answer:d,
+What is a hypothesis?
+a. A potential research topic
+b. A tentative explanation for an observation
+c. A statistical test
+d. A research question
+Correct answer:b,
+What is the purpose of a literature review?
+a. To summarize existing research on a topic
+b. To collect primary data
+c. To analyze statistical findings
+d. To formulate research questions
+Correct answer:a,
+What is a dependent variable?
+a. A variable that is manipulated in an experiment
+b. A variable that is measured or observed in a study
+c. A variable that is controlled by the researcher
+d. A variable that is influenced by extraneous factors
+Correct answer:b,
+What is the sampling technique where participants are selected based on their availability and willingness to participate?
+a. Convenience sampling
+b. Random sampling
+c. Stratified sampling
+d. Purposive sampling
+Correct answer:a,
+What is the purpose of data analysis in research?
+a. To generate research questions
+b. To collect primary data
+c. To summarize and interpret research findings
+d. To conduct literature reviews
+Correct answer:c,
+What is a research population?
+a. The sample size in a study
+b. The group of people or objects being studied
+c. The location where data is collected
+d. The statistical technique used in data analysis
+Correct answer:b,
+What is the difference between qualitative and quantitative research?
+a. Qualitative research is based on numbers, while quantitative research is based on observations.
+b. Qualitative research focuses on understanding meanings and experiences, while quantitative research focuses on numerical data.
+c. Qualitative research uses experiments, while quantitative research uses surveys.
+d. Qualitative research is more objective, while quantitative research is more subjective.
+Correct answer:b,
+What is a research design?
+a. The process of collecting data
+b. The statistical test used in data analysis
+c. The overall plan for conducting a research study
+d. The interpretation of research findings
+Correct answer:c,
+What is a control group in an experiment?
+a. A group of participants who receive the experimental treatment
+b. A group of participants who do not receive the experimental treatment
+c. A group of participants who provide feedback on the study
+d. A group of participants who are randomly selected
+Correct answer:b,
+What is a research objective?
+a. The hypothesis of a study
+b. The overall goal of a research study
+c. The statistical analysis conducted in a study
+d. The sample size in a study
+Correct answer:b,
+What is the purpose of peer review in research?
+a. To ensure ethical conduct of research
+b. To evaluate the quality and validity of research articles
+c. To identify potential research topics
+d. To collect primary data
+Correct answer:b,
+What is a research hypothesis?
+a. A statement of fact
+b. An educated guess
+c. A research question
+d. A research objective
+Correct answer:b,
+What is the purpose of random sampling in research?
+a. To ensure representation of the entire population
+b. To select participants based on specific criteria
+c. To control extraneous variables in an experiment
+d. To collect qualitative data
+Correct answer:a,
+What is the difference between a cross-sectional study and a longitudinal study?
+a. A cross-sectional study examines a single variable, while a longitudinal study examines multiple variables.
+b. A cross-sectional study is conducted over a short period of time, while a longitudinal study is conducted over an extended period of time.
+c. A cross-sectional study collects data from a single group, while a longitudinal study collects data from multiple groups.
+d. A cross-sectional study captures data at a single point in time, while a longitudinal study captures data over multiple points in time.
+Correct answer:d,
+What is the purpose of statistical analysis in research?
+a. To manipulate data for presentation
+b. To draw conclusions and make inferences from data
+c. To collect primary data
+d. To conduct literature reviews
+Correct answer:b,
+What is a research variable?
+a. A constant value in a study
+b. A factor that can change or vary in a study
+c. A statistical formula used in data analysis
+d. A research participant
+Correct answer:b,
+What is the difference between correlation and causation in research?
+a. Correlation refers to a cause-and-effect relationship, while causation refers to a relationship between variables.
+b. Correlation refers to a relationship between variables, while causation refers to a cause-and-effect relationship.
+c. Correlation is used in qualitative research, while causation is used in quantitative research.
+d. Correlation is determined through experiments, while causation is determined through observations.
+Correct answer:b,
+What is a research ethics committee?
+a. A group of researchers who conduct studies
+b. A team of statisticians who analyze research data
+c. An organization that monitors ethical standards in research
+d. A research methodology textbook
+Correct answer:c,
+What is a research instrument?
+a. A tool or technique used to collect data
+b. A research participant
+c. A research objective
+d. A research hypothesis
+Correct answer:a,
+What is the purpose of data validation in research?
+a. To ensure the accuracy and reliability of collected data
+b. To select appropriate research methods
+c. To analyze research findings
+d. To develop research questions
+Correct answer:a,
+What is a confounding variable in research?
+a. A variable that is directly manipulated by the researcher
+b. A variable that is controlled to eliminate its influence on the study
+c. A variable that can interfere with the relationship between the independent and dependent variables
+d. A variable that is not relevant to the research study
+Correct answer:c,
+What is a research proposal?
+a. A summary of research findings
+b. A detailed plan for a research study
+c. A statistical test conducted in a research study
+d. A research participant's consent form
+Correct answer:b,

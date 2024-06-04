@@ -1,0 +1,20 @@
+What is the role of a computer in our daily lives?
+Describe the difference between hardware and software.
+Explain the purpose of an operating system and provide examples.
+Discuss the importance of algorithms in computer programming.
+Describe the binary number system and its significance in computing.
+Explain the concept of data types and provide examples of different data types.
+Discuss the importance of memory in a computer and explain the difference between RAM and ROM.
+Explain the process of compiling and executing a computer program.
+Describe the role of input and output devices in a computer system.
+Discuss the concept of networking and its significance in modern computing.
+Explain the difference between a programming language and a natural language.
+Describe the process of debugging and the tools used for it.
+Discuss the role of conditional statements and loops in computer programming.
+Explain the concept of variables and their significance in storing and manipulating data.
+Describe the concept of functions and their role in modular programming.
+Discuss the advantages and disadvantages of using high-level programming languages.
+Explain the concept of object-oriented programming and its benefits.
+Discuss the significance of data structures in computer programming.
+Describe the concept of file management in a computer system.
+Discuss the ethical considerations and challenges associated with computer usage.

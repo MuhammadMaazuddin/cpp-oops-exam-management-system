@@ -1,0 +1,20 @@
+Explain the concept of deep learning and how it differs from traditional machine learning approaches.
+Describe the structure and components of a typical artificial neural network used in deep learning.
+Explain the backpropagation algorithm and its role in training deep learning models.
+Discuss the advantages and limitations of deep learning in comparison to other machine learning techniques.
+Describe the concept of gradient descent and its significance in optimizing deep learning models.
+Explain the vanishing gradient problem in deep learning and its impact on training deep neural networks.
+Discuss the concept of overfitting in deep learning and describe techniques to mitigate it.
+Describe the role of activation functions in deep learning and provide examples of commonly used activation functions.
+Explain the concept of convolutional neural networks (CNNs) and their applications in image recognition tasks.
+Describe the role of recurrent neural networks (RNNs) in processing sequential data and provide examples of their applications.
+Discuss the concept of transfer learning in deep learning and describe how it can be beneficial in solving complex tasks.
+Explain the purpose and working principles of generative adversarial networks (GANs) in deep learning.
+Discuss the concept of regularization in deep learning and describe different regularization techniques used to prevent overfitting.
+Describe the process of data augmentation in deep learning and explain its significance in improving model performance.
+Explain the concept of hyperparameter tuning in deep learning and describe techniques used to optimize hyperparameters.
+Discuss the challenges and considerations involved in scaling up deep learning models to handle large datasets and complex tasks.
+Describe the concept of unsupervised learning in the context of deep learning and provide examples of unsupervised deep learning algorithms.
+Explain the concept of natural language processing (NLP) and discuss how deep learning techniques are applied in NLP tasks.
+Describe the concept of attention mechanisms in deep learning and their significance in tasks involving sequential or textual data.
+Discuss the ethical implications and challenges associated with the use of deep learning models, particularly in sensitive domains such as healthcare or finance.

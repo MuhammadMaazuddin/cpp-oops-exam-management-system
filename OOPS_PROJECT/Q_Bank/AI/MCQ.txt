@@ -1,0 +1,150 @@
+What is the term for a branch of AI that focuses on teaching computers to learn from data and improve their performance over time?
+a. Neural networks
+b. Machine learning
+c. Expert systems
+d. Natural language processing
+Correct answer:b,
+Which of the following is a type of machine learning that uses labeled examples to make predictions or decisions?
+a. Deep learning
+b. Unsupervised learning
+c. Reinforcement learning
+d. Supervised learning
+Correct answer:d,
+What is the term for a neural network architecture that consists of multiple hidden layers?
+a. Recurrent neural network
+b. Convolutional neural network
+c. Deep neural network
+d. Multilayer perceptron
+Correct answer:c,
+Which AI technique involves designing systems that can understand and process human language?
+a. Natural language processing
+b. Computer vision
+c. Genetic algorithms
+d. Speech recognition
+Correct answer:a,
+Which of the following is an AI system that can understand, interpret, and respond to human language in a human-like way?
+a. Chatbot
+b. Expert system
+c. Virtual assistant
+d. Recommendation system
+Correct answer:a,
+What is the term for the process of training a machine learning model on a specific dataset to make predictions or classifications?
+a. Testing
+b. Training
+c. Inference
+d. Validation
+Correct answer:b,
+Which AI technique involves creating algorithms inspired by the biological processes of the human brain?
+a. Swarm intelligence
+b. Genetic algorithms
+c. Fuzzy logic
+d. Neural networks
+Correct answer:d,
+Which of the following is an example of unsupervised learning?
+a. Regression
+b. Clustering
+c. Classification
+d. Reinforcement learning
+Correct answer:b,
+What is the term for the process of extracting meaningful patterns or features from raw data?
+a. Feature extraction
+b. Data preprocessing
+c. Data visualization
+d. Data augmentation
+Correct answer:a,
+Which AI technique involves mimicking the behavior of a human expert in a specific domain?
+a. Genetic algorithms
+b. Reinforcement learning
+c. Expert systems
+d. Deep learning
+Correct answer:a,
+What is the term for a measure of the performance of a machine learning model on unseen data?
+a. Accuracy
+b. Precision
+c. Recall
+d. Evaluation
+Correct answer:a,
+Which AI technique involves using algorithms inspired by the process of natural selection and genetics?
+a. Genetic algorithms
+b. Neural networks
+c. Reinforcement learning
+d. Deep learning
+Correct answer:a,
+What is the term for a technique that allows a machine learning model to improve its performance by interacting with an environment and receiving feedback?
+a. Reinforcement learning
+b. Supervised learning
+c. Unsupervised learning
+d. Transfer learning
+Correct answer:a,
+Which AI technique involves analyzing and interpreting visual data, such as images and videos?
+a. Speech recognition
+b. Natural language processing
+c. Computer vision
+d. Data mining
+Correct answer:c,
+Which AI technique involves training a model using labeled data to make predictions or classify new instances?
+a. Supervised learning
+b. Unsupervised learning
+c. Reinforcement learning
+d. Deep learning
+Correct answer:a,
+What is the term for an AI system's ability to understand and interpret human language?
+a. Natural language processing
+b. Computer vision
+c. Expert systems
+d. Genetic algorithms
+Correct answer:a,
+Which AI technique involves imitating human intelligence and cognitive processes in machines?
+a. Artificial neural networks
+b. Genetic algorithms
+c. Cognitive computing
+d. Swarm intelligence
+Correct answer:c,
+What is the term for the process of extracting meaningful patterns or information from large datasets in AI?
+a. Data mining
+b. Data preprocessing
+c. Data augmentation
+d. Data visualization
+Correct answer:a,
+Which AI technique involves learning from experience and interacting with an environment to maximize rewards?
+a. Supervised learning
+b. Unsupervised learning
+c. Reinforcement learning
+d. Deep learning
+Correct answer:c,
+What is the term for a computer system or program that can perform tasks requiring human-like intelligence?
+a. Expert system
+b. Artificial intelligence
+c. Machine learning
+d. Neural network
+Correct answer:b,
+Which AI technique involves grouping similar instances together based on their characteristics?
+a. Classification
+b. Clustering
+c. Regression
+d. Dimensionality reduction
+Correct answer:b,
+What is the term for a measure of a machine learning model's performance in making correct predictions?
+a. Accuracy
+b. Precision
+c. Recall
+d. F1 score
+Correct answer:a,
+Which AI technique involves the development of algorithms inspired by the structure and function of the human brain?
+a. Artificial neural networks
+b. Genetic algorithms
+c. Swarm intelligence
+d. Evolutionary computation
+Correct answer:a,
+What is the term for the ability of an AI system to continuously improve its performance without explicit programming?
+a. Transfer learning
+b. Active learning
+c. Self-learning
+d. Reinforcement learning
+Correct answer:c,
+What is the term for a computer system or program that can perform tasks requiring human-like intelligence?
+a. Expert system
+b. Artificial intelligence
+c. Machine learning
+d. Neural network
+Correct answer:b,

@@ -1,0 +1,150 @@
+In object-oriented programming, a class is a:
+a. Blueprint for creating objects
+b. Instance of an object
+c. Method for data manipulation
+d. Container for storing variables
+Correct answer:a,
+Which of the following is NOT a principle of object-oriented programming?
+a. Inheritance
+b. Encapsulation
+c. Polymorphism
+d. Abstraction
+Correct answer:d,
+In object-oriented programming, an object is an instance of a:
+a. Class
+b. Method
+c. Variable
+d. Function
+Correct answer:a,
+Encapsulation in object-oriented programming refers to:
+a. Combining data and methods into a single unit
+b. Inheriting properties and behavior from another class
+c. Creating multiple instances of a class
+d. Implementing dynamic polymorphism
+Correct answer:a,
+Inheritance in object-oriented programming allows a class to:
+a. Acquire properties and behavior from another class
+b. Hide the internal details of an object
+c. Create multiple instances of a class
+d. Implement encapsulation
+Correct answer:a,
+Polymorphism in object-oriented programming allows objects of different classes to:
+a. Be stored in a single array or collection
+b. Inherit properties and behavior from another class
+c. Create multiple instances of a class
+d. Implement dynamic encapsulation
+Correct answer:a,
+Which of the following terms is associated with the concept of data hiding in object-oriented programming?
+a. Public
+b. Private
+c. Protected
+d. Static
+Correct answer:b,
+In object-oriented programming, a constructor is used to:
+a. Initialize an object's state
+b. Define a class's behavior
+c. Create multiple instances of a class
+d. Implement method overloading
+Correct answer:a,
+Which of the following keywords is used to implement method overriding in object-oriented programming?
+a. final
+b. static
+c. abstract
+d. override
+Correct answer:d,
+In object-oriented programming, the process of creating a new instance of a class is called:
+a. Instantiation
+b. Inheritance
+c. Polymorphism
+d. Encapsulation
+Correct answer:a,
+Which of the following is NOT a visibility modifier in object-oriented programming?
+a. Public
+b. Protected
+c. Private
+d. Internal
+Correct answer:d,
+Which of the following is NOT a fundamental principle of object-oriented programming?
+a. Encapsulation
+b. Modularity
+c. Abstraction
+d. Composition
+Correct answer:d,
+In object-oriented programming, method overloading allows a class to have:
+a. Multiple methods with the same name but different parameters
+b. Multiple methods with the same name and return type
+c. Multiple methods with different access modifiers
+d. Multiple methods with different names and parameters
+Correct answer:a,
+Which of the following is an example of an object-oriented programming language?
+a. Python
+b. C
+c. Assembly
+d. SQL
+Correct answer:a,
+Which of the following statements about abstract classes in object-oriented programming is correct?
+a. Abstract classes cannot have any concrete methods.
+b. Objects cannot be created from abstract classes.
+c. Abstract classes can be instantiated directly.
+d. Abstract classes must implement all methods defined in the class.
+Correct answer:b,
+Which of the following is NOT a pillar of object-oriented programming?
+a. Inheritance
+b. Abstraction
+c. Polymorphism
+d. Procedural programming
+Correct answer:d,
+Which of the following keywords is used to prevent a class from being inherited in object-oriented programming?
+a. final
+b. static
+c. abstract
+d. private
+Correct answer:a,
+In object-oriented programming, a method is a:
+a. Function that belongs to a class.
+b. Variable that holds a value.
+c. Data type used to store multiple values.
+d. Loop that repeats a block of code.
+Correct answer:a,
+Which of the following is true about method overriding in object-oriented programming?
+a. It allows a method to have multiple return types.
+b. It allows a subclass to provide a different implementation of a method defined in its superclass.
+c. It can only be performed between classes of the same hierarchy.
+d. It is used to define static methods in a class.
+Correct answer:b,
+Which of the following is NOT a benefit of using object-oriented programming?
+a. Modularity and code reusability
+b. Improved code organization and maintenance
+c. Higher execution speed and efficiency
+d. Better problem-solving and abstraction capabilities
+Correct answer:c,
+In object-oriented programming, a static variable:
+a. Belongs to a specific instance of a class.
+b. Can be accessed without creating an object of the class.
+c. Can only be modified within the class methods.
+d. Is initialized with a different value for each instance of the class.
+Correct answer:b,
+Which of the following is NOT a fundamental concept of object-oriented programming?
+a. Encapsulation
+b. Modularity
+c. Polymorphism
+d. Recursion
+Correct answer:d,
+Which of the following keywords is used to define an interface in object-oriented programming?
+a. interface
+b. abstract
+c. implements
+d. extends
+Correct answer:a,
+In object-oriented programming, an interface:
+a. Defines a blueprint for a class and can be instantiated directly.
+b. Contains a specific implementation of methods.
+c. Can be inherited by multiple interfaces.
+d. Specifies a set of methods that a class implementing the interface must implement.
+Correct answer:d,
+Which of the following is NOT a principle of object-oriented design?
+a. DRY (Don't Repeat Yourself)
+b. KISS (Keep It Simple, Stupid)
+c. YAGNI (You Ain't Gonna Need It)
+d. FIFO (First-In, First-Out)
+Correct answer:d,

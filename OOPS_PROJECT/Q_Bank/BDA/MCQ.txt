@@ -1,0 +1,150 @@
+What is big data analytics?
+a. Analyzing large datasets to gain insights
+b. Analyzing small datasets to gain insights
+c. Storing large datasets for future analysis
+d. Storing small datasets for future analysis
+Correct answer:a,
+Which of the following is a characteristic of big data?
+a. Small volume
+b. Structured format
+c. Low velocity
+d. Variety of data types
+Correct answer:d,
+What is the primary goal of big data analytics?
+a. Data storage
+b. Data visualization
+c. Data processing
+d. Data-driven insights
+Correct answer:d,
+Which technology is commonly used for handling and analyzing big data?
+a. Relational databases
+b. Spreadsheets
+c. Hadoop
+d. Email clients
+Correct answer:c,
+What is the term used for the process of extracting useful information from big data?
+a. Data mining
+b. Data warehousing
+c. Data cleansing
+d. Data aggregation
+Correct answer:a,
+Which of the following is NOT a challenge in big data analytics?
+a. Data privacy and security
+b. Lack of computing power
+c. Limited data storage options
+d. Data visualization
+Correct answer:d,
+What is the role of machine learning in big data analytics?
+a. Storing and organizing data
+b. Analyzing data patterns and making predictions
+c. Extracting data from various sources
+d. Preparing data for analysis
+Correct answer:b,
+Which of the following is NOT a step in the big data analytics process?
+a. Data collection
+b. Data exploration
+c. Data storage
+d. Data deletion
+Correct answer:d,
+What is the purpose of data preprocessing in big data analytics?
+a. To remove irrelevant data
+b. To increase data volume
+c. To slow down the analysis process
+d. To compress data for storage
+Correct answer:a,
+Which of the following techniques is used to uncover hidden patterns and relationships in big data?
+a. Regression analysis
+b. Cluster analysis
+c. Descriptive statistics
+d. Sampling
+Correct answer:b,
+What is the advantage of using distributed computing for big data analytics?
+a. Faster data analysis
+b. Smaller data storage requirements
+c. Lower cost of infrastructure
+d. Easier data visualization
+Correct answer:a,
+Which programming language is commonly used for big data analytics?
+a. Java
+b. Python
+c. C++
+d. Ruby
+Correct answer:b,
+What is the term for the process of transforming raw data into a format suitable for analysis?
+a. Data mining
+b. Data preprocessing
+c. Data integration
+d. Data visualization
+Correct answer:b,
+Which of the following is NOT a type of big data analytics?
+a. Descriptive analytics
+b. Predictive analytics
+c. Prescriptive analytics
+d. Passive analytics
+Correct answer:d,
+What is the purpose of data visualization in big data analytics?
+a. To make data look more attractive
+b. To uncover hidden patterns and trends
+c. To store data for future analysis
+d. To protect data from unauthorized access
+Correct answer:b,
+Which of the following is an example of structured data?
+a. Emails
+b. Social media posts
+c. Sensor data
+d. Relational database records
+Correct answer:d,
+Which of the following is a key characteristic of big data?
+a. Low complexity
+b. Homogeneous data types
+c. Low storage requirements
+d. High velocity
+Correct answer:d,
+What is the purpose of data sampling in big data analytics?
+a. To analyze the entire dataset
+b. To reduce the size of the dataset
+c. To increase the accuracy of the analysis
+d. To remove outliers from the data
+Correct answer:b,
+Which of the following is an example of unstructured data?
+a. Transaction records
+b. Sensor readings
+c. Emails and documents
+d. Spreadsheet data
+Correct answer:c,
+What is the role of data governance in big data analytics?
+a. Ensuring data privacy and security
+b. Improving data quality and integrity
+c. Defining data access permissions
+d. All of the above
+Correct answer:d,
+Which statistical technique is commonly used for anomaly detection in big data analytics?
+a. Regression analysis
+b. Clustering
+c. Hypothesis testing
+d. Outlier detection
+Correct answer:d,
+What is the purpose of data aggregation in big data analytics?
+a. To combine data from multiple sources
+b. To compress data for storage
+c. To remove duplicate data entries
+d. To visualize data patterns
+Correct answer:a,
+Which of the following is a popular open-source framework for big data analytics?
+a. TensorFlow
+b. Tableau
+c. Apache Spark
+d. SAS
+Correct answer:c,
+What is the role of data visualization in big data analytics?
+a. To communicate insights effectively
+b. To reduce data storage requirements
+c. To identify outliers in the data
+d. To encrypt sensitive data
+Correct answer:a,
+Which of the following is NOT a type of data analysis commonly performed in big data analytics?
+a. Sentiment analysis
+b. Text mining
+c. Network analysis
+d. Linear regression
+Correct answer:d,

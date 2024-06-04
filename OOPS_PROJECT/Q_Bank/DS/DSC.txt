@@ -1,0 +1,20 @@
+Explain what a data structure is and why it is important in computer science.
+Discuss the difference between an array and a linked list in terms of their structure and operations.
+Describe the concept of a stack and explain how it is used in programming.
+Explain the working principle of a queue and provide examples of real-world scenarios where it can be applied.
+Discuss the characteristics and applications of a binary tree data structure.
+Explain the concept of hashing and how it is used to implement a hash table.
+Describe the properties and uses of a graph data structure.
+Compare and contrast a stack and a queue in terms of their operations and real-world applications.
+Discuss the concept of dynamic programming and how it relates to data structures.
+Explain the concept of recursion and its relationship with data structures.
+Describe the working principle and applications of a trie data structure.
+Discuss the concept of a priority queue and its uses in various algorithms.
+Explain the concept of a heap data structure and its applications in heap-based algorithms.
+Discuss the working principle and applications of a balanced search tree, such as an AVL tree or a red-black tree.
+Describe the concept of a disjoint-set data structure and its applications in solving connectivity problems.
+Explain the concept of a B-tree and its advantages in storing large amounts of data.
+Discuss the concept of a skip list data structure and how it provides efficient searching and insertion operations.
+Describe the working principle and applications of a hash-trie data structure.
+Explain the concept of a suffix tree and its uses in string matching algorithms.
+Discuss the concept of a Bloom filter data structure and its applications in probabilistic set membership testing.
